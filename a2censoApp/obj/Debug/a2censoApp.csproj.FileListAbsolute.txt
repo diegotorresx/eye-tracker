@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Proyectos de Programacion\Proyectos de trabajo\a2censoApp\a2censoApp\a2censoApp\bin\Debug\a2censoApp.exe.config
+C:\Users\DELL\Desktop\Proyectos de Programacion\Proyectos de trabajo\a2censoApp\a2censoApp\a2censoApp\bin\Debug\a2censoApp.exe
+C:\Users\DELL\Desktop\Proyectos de Programacion\Proyectos de trabajo\a2censoApp\a2censoApp\a2censoApp\bin\Debug\a2censoApp.pdb
+C:\Users\DELL\Desktop\Proyectos de Programacion\Proyectos de trabajo\a2censoApp\a2censoApp\a2censoApp\obj\Debug\a2censoApp.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Proyectos de Programacion\Proyectos de trabajo\a2censoApp\a2censoApp\a2censoApp\obj\Debug\a2censoApp.Properties.Resources.resources
+C:\Users\DELL\Desktop\Proyectos de Programacion\Proyectos de trabajo\a2censoApp\a2censoApp\a2censoApp\obj\Debug\a2censoApp.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Proyectos de Programacion\Proyectos de trabajo\a2censoApp\a2censoApp\a2censoApp\obj\Debug\a2censoApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Proyectos de Programacion\Proyectos de trabajo\a2censoApp\a2censoApp\a2censoApp\obj\Debug\a2censoApp.exe
+C:\Users\DELL\Desktop\Proyectos de Programacion\Proyectos de trabajo\a2censoApp\a2censoApp\a2censoApp\obj\Debug\a2censoApp.pdb
+C:\Users\DELL\Desktop\Proyectos de Programacion\Proyectos de trabajo\a2censoApp\a2censoApp\a2censoApp\obj\Debug\a2censoApp.Vistas.Permisos.resources
+C:\Users\DELL\Desktop\Proyectos de Programacion\Proyectos de trabajo\a2censoApp\a2censoApp\a2censoApp\obj\Debug\a2censoApp.frBienvenido.resources
+C:\Users\DELL\Desktop\Proyectos de Programacion\Proyectos de trabajo\a2censoApp\a2censoApp\a2censoApp\obj\Debug\a2censoApp.Vistas.InicioSesion.resources
+C:\Users\DELL\Desktop\Proyectos de Programacion\Proyectos de trabajo\a2censoApp\a2censoApp\a2censoApp\obj\Debug\a2censoApp.Vistas.DatosGuardados.resources
+C:\Users\DELL\Desktop\Proyectos de Programacion\Proyectos de trabajo\a2censoApp\a2censoApp\a2censoApp\obj\Debug\a2censoApp.Vistas._5InstruccionesExperimento.resources
